@@ -19,7 +19,9 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
--------------------
+
+---
+
 <h3 align='left'>Technologies I'm studying and trying to improve on</h3>
 
 
@@ -32,8 +34,8 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 - **GIT**
   - Console commands, GitHub, Github Actions
 
-- **Devops**
-  - Docker compose
+- **Containerization**
+  - Docker Engine, Docker compose
 
 - **IDEs**
   - IntelliJ, MySQL workbench, Netbeans
