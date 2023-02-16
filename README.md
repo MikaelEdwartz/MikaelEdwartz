@@ -38,7 +38,7 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
   - Docker Engine, Docker compose
 
 - **IDEs**
-  - IntelliJ, MySQL workbench, Netbeans
+  - IntelliJ, Datagrip, Netbeans
 
 - **WORKFLOW**
   - TDD, MVC, CI/CD, Github actions & Projects
