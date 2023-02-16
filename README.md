@@ -47,7 +47,7 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
   - ER modeling, UML diagrams
 
 - **OS**
-  - MacOS, Linus(Ubuntu), Windows
+  - MacOS, Linux(Ubuntu), Windows
    
  
  
