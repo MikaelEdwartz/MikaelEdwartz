@@ -26,7 +26,7 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 
 
 - **JAVA**
-  - Maven, Java/Jakarta EE, Spring Boot, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
+  - Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, RabbitMQ, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
   - MySQL, JDBC/JPA, MongoDB, SQLite
@@ -35,8 +35,9 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
   - Console commands, GitHub, Github Actions
 
 - **Containerization**
-  - Docker Engine, Docker compose
-
+  - Docker, Docker compose, Kubernetes
+- **WebServices**
+  - Restful API
 - **IDEs**
   - IntelliJ, Datagrip, Netbeans
 
@@ -44,7 +45,7 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
   - TDD, MVC, CI/CD, Github actions & Projects
 
 - **Design**
-  - ER modeling, UML diagrams
+  - ER modeling, UML diagrams, Hexagonal architecture Modular architecture, Microservices
 
 - **OS**
   - MacOS, Linux(Ubuntu), Windows
