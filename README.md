@@ -5,9 +5,10 @@
 <p align='center'>
 Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java developer program.
 </p>
- <div align="center">
-  <img src="https://github-readme-stats-abtrax.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=mikaeledwartz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-abtrax.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&username=mikaeledwartz" height="150" alt="languages graph"  /> </div>
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaelEdwartz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mikaeledwartz&label=Profile%20views&color=blueviolet" alt="MikaelEdwartz profile views"/></p>
 
@@ -24,10 +25,10 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 
 <h3 align='left'>Technologies I'm studying and trying to improve on</h3>
 
-
 - **JAVA**
   - Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, RabbitMQ, JUnit5/Mockito/AssertJ testing
-
+- **WEB**
+  - Javascript & Typescript, HTML & CSS, React
 - **DATABASE**
   - MySQL, JDBC/JPA, MongoDB, SQLite
 
@@ -39,13 +40,13 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 - **WebServices**
   - Restful API
 - **IDEs**
-  - IntelliJ, Datagrip, Netbeans
+  - IntelliJ, VSCode
 
 - **WORKFLOW**
   - TDD, MVC, CI/CD, Github actions & Projects
 
 - **Design**
-  - ER modeling, UML diagrams, Hexagonal architecture Modular architecture, Microservices
+  - ER modeling, UML diagrams, Hexagonal architecture, Modular architecture, Microservices
 
 - **OS**
   - MacOS, Linux(Ubuntu), Windows
