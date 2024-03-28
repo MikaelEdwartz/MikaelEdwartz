@@ -26,14 +26,14 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 <h3 align='left'>Technologies I'm studying and trying to improve on</h3>
 
 - **JAVA**
-  - Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, RabbitMQ, JUnit5/Mockito/AssertJ testing
+  - Maven, JavaFX, Swing, Java/Jakarta EE, Spring Boot, Hibernate, GraalVM, ActiveMQ, JUnit5/Mockito/AssertJ testing, WireMock
 - **WEB**
-  - Javascript & Typescript, HTML & CSS, React
+  - Javascript & Typescript, HTML & CSS, React, Vue.js
 - **DATABASE**
   - MySQL, JDBC/JPA, MongoDB, SQLite
 
 - **GIT**
-  - Console commands, GitHub, Github Actions
+  - Console commands, GitHub, Github Actions, Gerrit
 
 - **Containerization**
   - Docker, Docker compose, Kubernetes
@@ -44,6 +44,9 @@ Currently studying at IT-Högskolan where I'm undertaking my 2 year long Java de
 
 - **WORKFLOW**
   - TDD, MVC, CI/CD, Github actions & Projects
+
+- **WoW**
+  - Agile methods, Scrum, Kanban
 
 - **Design**
   - ER modeling, UML diagrams, Hexagonal architecture, Modular architecture, Microservices
